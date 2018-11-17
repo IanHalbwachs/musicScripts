@@ -1,0 +1,24 @@
+{
+  "danceability" : 0.786,
+  "energy" : 0.372,
+  "key" : 0,
+  "loudness" : -13.088,
+  "mode" : 1,
+  "speechiness" : 0.0421,
+  "acousticness" : 0.690,
+  "instrumentalness" : 0.0000337,
+  "liveness" : 0.0523,
+  "valence" : 0.568,
+  "tempo" : 134.395,
+  "type" : "audio_features",
+  "id" : "3XvbzKlmdvlB7PyNrywdKq",
+  "uri" : "spotify:track:3XvbzKlmdvlB7PyNrywdKq",
+  "track_href" : "https://api.spotify.com/v1/tracks/3XvbzKlmdvlB7PyNrywdKq",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/3XvbzKlmdvlB7PyNrywdKq",
+  "duration_ms" : 235520,
+  "time_signature" : 4
+}
+
+https://open.spotify.com/track/4bjvLvKovcWqZwDbXT5QQX
+
+    C:\Users\Ian\Documents\Soulseek Downloads\complete\Standalone Synths & Samplers\Roland Virtual Sound Canvas 3.2.rar: Checksum error in data1.cab. The file is corrupt

@@ -1,0 +1,25 @@
+{
+  "name": "musicscripts",
+  "version": "1.0.0",
+  "description": "personal computer music stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanHalbwachs/musicScripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanHalbwachs/musicScripts/issues"
+  },
+  "homepage": "https://github.com/IanHalbwachs/musicScripts#readme",
+  "dependencies": {
+    "immutable": "^3.8.2",
+    "js-combinatorics": "^0.5.4",
+    "midi-writer-js": "^1.5.2",
+    "replace-in-file": "^3.4.2"
+  }
+}
